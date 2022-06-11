@@ -35,7 +35,7 @@ CREATE TABLE music_fact (
     valence FLOAT,
     tempo FLOAT,
     CONSTRAINT fk_id_artist FOREIGN KEY (id_artist)
-        REFERENCES artist_dimension(id_artist),
+        REFERENCES artist_dimension (id_artist),
     CONSTRAINT fk_id_song FOREIGN KEY (id_song)
         REFERENCES song_dimension (id_song)
 );
@@ -62,7 +62,7 @@ CREATE TABLE temporal (
 );
 
 -- MODEL ELIMINATION
-DROP table temporal;
+DROP table if exists temporal;
 drop table music_fact;
 drop table artist_dimension;
 drop table song_dimension;
