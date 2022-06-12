@@ -1,0 +1,268 @@
+################################################### CONSULTA 1 ###################################################
+Artista         Reproducciones
+--------------  --
+Rihanna         25
+Drake           23
+Eminem          21
+Calvin Harris   20
+Britney Spears  19
+David Guetta    18
+Kanye West      17
+Chris Brown     17
+Beyoncé         16
+Taylor Swift    16
+--------------  --
+##################################################################################################################
+################################################### CONSULTA 2 ###################################################
+Artista                   Cancion                  Reproducciones
+------------------------  -----------------------  -
+Ellie Goulding            BURN                     2
+Snoop Dogg                DROP IT LIKE IT'S HOT    2
+September                 CRY FOR YOU              2
+Coldplay                  CLOCKS                   2
+Jay Sean                  DOWN                     2
+James Morrison            BROKEN STRINGS           2
+The All-American Rejects  DIRTY LITTLE SECRET      2
+Soulja Boy                CRANK THAT (SOULJA BOY)  2
+Lady Gaga                 BAD ROMANCE              2
+Taylor Swift              BAD BLOOD                2
+------------------------  -----------------------  -
+##################################################################################################################
+################################################### CONSULTA 3 ###################################################
+Genero                 Reproducciones
+---------------------  ---
+pop                    428
+hip hop, pop           277
+hip hop, pop, R&B      244
+pop, Dance/Electronic  221
+pop, R&B               178
+---------------------  ---
+##################################################################################################################
+################################################### CONSULTA 4 ###################################################
+Artista                Genero                                  Reproducciones
+---------------------  -------------------------------------  --
+Jason Aldean           country                                 2
+Michel Teló            country, latin                          1
+Flume                  Dance/Electronic                        2
+Hugh Jackman           easy listening                          1
+Vanessa Carlton        Folk/Acoustic, pop                      1
+Oasis                  Folk/Acoustic, rock                     1
+Mumford & Sons         Folk/Acoustic, rock, pop                1
+Eminem                 hip hop                                21
+Blanco Brown           hip hop, country                        1
+Travis Scott           hip hop, Dance/Electronic               5
+Paulo Londra           hip hop, latin, Dance/Electronic        1
+Black Eyed Peas        hip hop, pop                           14
+Bubba Sparxxx          hip hop, pop, country                   1
+Calvin Harris          hip hop, pop, Dance/Electronic         20
+Pitbull                hip hop, pop, latin                     9
+Rihanna                hip hop, pop, R&B                      25
+J. Holiday             hip hop, pop, R&B, Dance/Electronic     2
+Baby Bash              hip hop, pop, R&B, latin                3
+3OH!3                  hip hop, pop, rock                      3
+Erykah Badu            hip hop, R&B                            1
+X Ambassadors          hip hop, rock, pop                      2
+Daddy Yankee           latin                                   3
+Limp Bizkit            metal                                   3
+Brian McFadden         otros                                   1
+Britney Spears         pop                                    19
+Carrie Underwood       pop, country                            2
+Avicii                 pop, Dance/Electronic                  10
+DJ Ötzi                pop, easy listening, Dance/Electronic   1
+Katie Melua            pop, easy listening, jazz               2
+Michelle Branch        pop, Folk/Acoustic                      1
+Enrique Iglesias       pop, latin                              9
+Beyoncé                pop, R&B                               16
+Kelis                  pop, R&B, Dance/Electronic              4
+Jennifer Hudson        pop, R&B, easy listening                1
+Robbie Williams        pop, rock                               6
+Ellie Goulding         pop, rock, Dance/Electronic             6
+Of Monsters and Men    pop, rock, Folk/Acoustic                1
+3 Doors Down           pop, rock, metal                        5
+Amy Winehouse          R&B                                     3
+Red Hot Chili Peppers  rock                                    6
+Jack White             rock, blues                             1
+Santana                rock, blues, latin                      2
+KALEO                  rock, classical                         1
+Bodyrockers            rock, Dance/Electronic                  1
+Elvis Presley          rock, easy listening                    1
+Tom Jones              rock, Folk/Acoustic, easy listening     1
+The Strumbellas        rock, Folk/Acoustic, pop                1
+Linkin Park            rock, metal                             9
+Coldplay               rock, pop                              13
+The Prodigy            rock, pop, Dance/Electronic             1
+Fuel                   rock, pop, metal                        1
+M83                    rock, pop, metal, Dance/Electronic      1
+Simply Red             rock, R&B, Folk/Acoustic, pop           1
+Enya                   World/Traditional, Folk/Acoustic        1
+Panjabi MC             World/Traditional, hip hop              1
+Sandi Thom             World/Traditional, pop                  1
+KT Tunstall            World/Traditional, pop, Folk/Acoustic   2
+U2                     World/Traditional, rock                 2
+Two Door Cinema Club   World/Traditional, rock, pop            1
+---------------------  -------------------------------------  --
+##################################################################################################################
+################################################### CONSULTA 5 ###################################################
+Artista                Cancion                                                Genero                               Reproducciones
+--------------------  ----------------------------------------------------  -------------------------------------  -
+The Band Perry        IF I DIE YOUNG                                        country                                2
+Michel Teló           AI SE EU TE PEGO - LIVE                               country, latin                         1
+So Solid Crew         21 SECONDS                                            Dance/Electronic                       1
+Hugh Jackman          THE GREATEST SHOW                                     easy listening                         1
+Vanessa Carlton       A THOUSAND MILES                                      Folk/Acoustic, pop                     1
+Oasis                 GO LET IT OUT                                         Folk/Acoustic, rock                    1
+Mumford & Sons        LITTLE LION MAN                                       Folk/Acoustic, rock, pop               1
+Eminem                LIKE TOY SOLDIERS                                     hip hop                                2
+Blanco Brown          THE GIT UP                                            hip hop, country                       1
+Travis Scott          SICKO MODE                                            hip hop, Dance/Electronic              2
+Paulo Londra          ADAN Y EVA                                            hip hop, latin, Dance/Electronic       1
+Soulja Boy            CRANK THAT (SOULJA BOY)                               hip hop, pop                           2
+Bubba Sparxxx         MS. NEW BOOTY                                         hip hop, pop, country                  1
+LMFAO                 SEXY AND I KNOW IT                                    hip hop, pop, Dance/Electronic         2
+Pitbull               DON'T STOP THE PARTY (FEAT. TJR)                      hip hop, pop, latin                    1
+Jay Sean              DOWN                                                  hip hop, pop, R&B                      2
+Tinashe               2 ON (FEAT. SCHOOLBOY Q)                              hip hop, pop, R&B, Dance/Electronic    1
+Baby Bash             SUGA SUGA                                             hip hop, pop, R&B, latin               2
+3OH!3                 DONTTRUSTME                                           hip hop, pop, rock                     1
+Erykah Badu           BAG LADY                                              hip hop, R&B                           1
+X Ambassadors         RENEGADES                                             hip hop, rock, pop                     2
+Lucenzo               DANZA KUDURO (FEAT. DON OMAR)                         latin                                  1
+Limp Bizkit           BEHIND BLUE EYES                                      metal                                  1
+Brian McFadden        ALMOST HERE                                           otros                                  1
+Taylor Swift          BAD BLOOD                                             pop                                    2
+Carrie Underwood      BEFORE HE CHEATS                                      pop, country                           1
+September             CRY FOR YOU                                           pop, Dance/Electronic                  2
+DJ Ötzi               HEY BABY (RADIO MIX)                                  pop, easy listening, Dance/Electronic  1
+Katie Melua           NINE MILLION BICYCLES                                 pop, easy listening, jazz              1
+Michelle Branch       ALL YOU WANTED                                        pop, Folk/Acoustic                     1
+Enrique Iglesias      BE WITH YOU                                           pop, latin                             1
+James Morrison        BROKEN STRINGS                                        pop, R&B                               2
+Kelis                 BOSSY                                                 pop, R&B, Dance/Electronic             1
+Jennifer Hudson       SPOTLIGHT                                             pop, R&B, easy listening               1
+Matchbox Twenty       BENT                                                  pop, rock                              1
+Ellie Goulding        BURN                                                  pop, rock, Dance/Electronic            2
+Of Monsters and Men   LITTLE TALKS                                          pop, rock, Folk/Acoustic               1
+Hinder                BETTER THAN ME                                        pop, rock, metal                       1
+Estelle               AMERICAN BOY                                          R&B                                    1
+Kings of Leon         SEX ON FIRE                                           rock                                   2
+Jack White            ANOTHER WAY TO DIE                                    rock, blues                            1
+Santana               INTO THE NIGHT (FEAT. CHAD KROEGER)                   rock, blues, latin                     1
+KALEO                 WAY DOWN WE GO                                        rock, classical                        1
+Bodyrockers           I LIKE THE WAY - RADIO EDIT                           rock, Dance/Electronic                 1
+Elvis Presley         A LITTLE LESS CONVERSATION - JXL RADIO EDIT REMIX     rock, easy listening                   1
+Tom Jones             SEXBOMB                                               rock, Folk/Acoustic, easy listening    1
+The Strumbellas       SPIRITS                                               rock, Folk/Acoustic, pop               1
+Linkin Park           IN THE END                                            rock, metal                            2
+Coldplay              CLOCKS                                                rock, pop                              2
+The Prodigy           OMEN                                                  rock, pop, Dance/Electronic            1
+Fuel                  HEMORRHAGE (IN MY HANDS)                              rock, pop, metal                       1
+M83                   MIDNIGHT CITY                                         rock, pop, metal, Dance/Electronic     1
+Simply Red            SUNRISE                                               rock, R&B, Folk/Acoustic, pop          1
+Enya                  ONLY TIME                                             World/Traditional, Folk/Acoustic       1
+Panjabi MC            MUNDIAN TO BACH KE                                    World/Traditional, hip hop             1
+Sandi Thom            I WISH I WAS A PUNK ROCKER (WITH FLOWERS IN MY HAIR)  World/Traditional, pop                 1
+KT Tunstall           BLACK HORSE AND THE CHERRY TREE                       World/Traditional, pop, Folk/Acoustic  1
+U2                    SOMETIMES YOU CAN'T MAKE IT ON YOUR OWN               World/Traditional, rock                1
+Two Door Cinema Club  WHAT YOU KNOW                                         World/Traditional, rock, pop           1
+--------------------  ----------------------------------------------------  -------------------------------------  -
+##################################################################################################################
+################################################### CONSULTA 6 ###################################################
+Artista                   Cancion                               Año   Reproducciones
+------------------------  ------------------------------------  ----  -
+Missy Elliott             HOT BOYZ                              1998  1
+blink-182                 ALL THE SMALL THINGS                  1999  1
+Craig David               FILL ME IN                            2000  2
+Destiny's Child           INDEPENDENT WOMEN, PT. 1              2001  2
+Coldplay                  CLOCKS                                2002  2
+No Doubt                  IT'S MY LIFE                          2003  2
+Snoop Dogg                DROP IT LIKE IT'S HOT                 2004  2
+The All-American Rejects  DIRTY LITTLE SECRET                   2005  2
+Justin Timberlake         MY LOVE (FEAT. T.I.)                  2006  2
+Soulja Boy                CRANK THAT (SOULJA BOY)               2007  2
+James Morrison            BROKEN STRINGS                        2008  2
+Lady Gaga                 BAD ROMANCE                           2009  2
+The Band Perry            IF I DIE YOUNG                        2010  2
+Coldplay                  PARADISE                              2011  2
+Taylor Swift              I KNEW YOU WERE TROUBLE.              2012  2
+Disclosure                LATCH                                 2013  2
+Taylor Swift              BAD BLOOD                             2014  2
+Trey Songz                NA NA                                 2015  2
+Rob $tone                 CHILL BILL (FEAT. J. DAVI$ & SPOOKS)  2016  2
+Cardi B                   BODAK YELLOW                          2017  2
+Post Malone               BETTER NOW                            2018  2
+Chris Brown               BEAUTIFUL PEOPLE                      2019  1
+t.A.T.u.                  ALL THE THINGS SHE SAID               2020  1
+------------------------  ------------------------------------  ----  -
+##################################################################################################################
+################################################### CONSULTA 7 ###################################################
+Artista         Popularidad
+--------------  ----
+Rihanna         1662
+Eminem          1462
+Calvin Harris   1356
+Drake           1349
+Britney Spears  1198
+David Guetta    1185
+Katy Perry      1033
+Beyoncé         1030
+Chris Brown     1012
+Kanye West       983
+--------------  ----
+##################################################################################################################
+################################################### CONSULTA 8 ###################################################
+Cancion               Popularidad
+--------------------  --
+SWEATER WEATHER       89
+ANOTHER LOVE          88
+WITHOUT ME            87
+LOVELY (WITH KHALID)  86
+THE REAL SLIM SHADY   86
+WAIT A MINUTE!        86
+'TILL I COLLAPSE      85
+DADDY ISSUES          85
+PERFECT               85
+CIRCLES               85
+--------------------  --
+##################################################################################################################
+################################################### CONSULTA 9 ###################################################
+Genero                 Popularidad
+---------------------  -----
+pop                    24270
+hip hop, pop           16968
+hip hop, pop, R&B      13851
+pop, Dance/Electronic  11320
+pop, R&B                9805
+---------------------  -----
+##################################################################################################################
+################################################### CONSULTA 10 ###################################################
+Cancion                                      Genero                           Popularidad
+--------------------------------------  -----------------------------------  -
+21 SECONDS                              Dance/Electronic                     1
+LITTLE LION MAN                         Folk/Acoustic, rock, pop             1
+LIKE TOY SOLDIERS                       hip hop                              2
+SICKO MODE                              hip hop, Dance/Electronic            2
+CRANK THAT (SOULJA BOY)                 hip hop, pop                         2
+MS. NEW BOOTY                           hip hop, pop, country                1
+ACCEPTABLE IN THE 80'S                  hip hop, pop, Dance/Electronic       1
+DON'T STOP THE PARTY (FEAT. TJR)        hip hop, pop, latin                  1
+DOWN                                    hip hop, pop, R&B                    2
+2 ON (FEAT. SCHOOLBOY Q)                hip hop, pop, R&B, Dance/Electronic  1
+BABY, I'M BACK                          hip hop, pop, R&B, latin             1
+DONTTRUSTME                             hip hop, pop, rock                   1
+DANZA KUDURO (FEAT. DON OMAR)           latin                                1
+BEHIND BLUE EYES                        metal                                1
+ALMOST HERE                             otros                                1
+BAD BLOOD                               pop                                  2
+CRY FOR YOU                             pop, Dance/Electronic                2
+BE WITH YOU                             pop, latin                           1
+1, 2 STEP (FEAT. MISSY ELLIOTT) - MAIN  pop, R&B                             1
+BOSSY                                   pop, R&B, Dance/Electronic           1
+AMERICAN BOY                            R&B                                  1
+21 GUNS                                 rock                                 1
+ADDICTED                                rock, metal                          1
+AGAIN                                   rock, pop                            1
+OMEN                                    rock, pop, Dance/Electronic          1
+HEMORRHAGE (IN MY HANDS)                rock, pop, metal                     1
+MUNDIAN TO BACH KE                      World/Traditional, hip hop           1
+--------------------------------------  -----------------------------------  -
+##################################################################################################################

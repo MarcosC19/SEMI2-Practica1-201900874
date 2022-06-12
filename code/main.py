@@ -2,6 +2,7 @@ from helpers.printMenu import *
 from helpers.loggerConfig import logger
 from helpers.modelCreation import createModel
 from helpers.loadInfo import dataLoad
+from helpers.doQuerys import executeQuerys
 
 def main():
     while True:
@@ -17,6 +18,7 @@ def main():
             print("Carga de informacion finalizada")
         elif option == "3":
             logger.info("Se selecciono la opcion 3 (Realizar consultas)")
+            executeQuerys()
         elif option == "4":
             logger.info("Se selecciono la opcion 4 (Salir)")
             break
