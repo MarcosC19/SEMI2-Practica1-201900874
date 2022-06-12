@@ -70,17 +70,19 @@ def createModel():
         # CREATION OF DATABASE MODEL
         logger.info("Comenzando la creacion del modelo...")
         logger.info("Eliminando tablas existentes del modelo...")
-        executeQuery(drop_tables)
+        executeQuery(drop_tables, 'drop')
         logger.info("Tablas eliminadas con exito")
         logger.info("Creando tabla temporal para los datos...")
-        executeQuery(create_temporal_table)
+        executeQuery(create_temporal_table, 'create')
         logger.info("Tabla temporal creada con exito")
         logger.info("Creando las tablas del modelo...")
-        executeQuery(create_model_tables)
+        executeQuery(create_model_tables, 'create')
         logger.info("Tablas del modelo creadas con exito")
     except Error as e:
         logger.error(e)
+        print("Ocurrio un error")
     except Exception as e:
         logger.error(e)
+        print("Ocurrio un error")
 
 

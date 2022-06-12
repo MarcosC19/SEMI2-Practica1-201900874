@@ -23,9 +23,13 @@ def startConnection():
     return database
 
 # METHOD TO EXECUTE A QUERY WITH A NEW CONNECTION AND CURSOR
-def executeQuery(textQuery):
+def executeQuery(textQuery, type):
         newConnection = startConnection()
         newCursor = newConnection.cursor()
         newCursor.execute(textQuery)
+
+        if type == 'insert':
+            newConnection.commit() # saving query insert
+
         newCursor.close()
         newConnection.close()

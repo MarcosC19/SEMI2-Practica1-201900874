@@ -66,5 +66,3 @@ DROP table if exists temporal;
 drop table music_fact;
 drop table artist_dimension;
 drop table song_dimension;
-
-
